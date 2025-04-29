@@ -1,3 +1,11 @@
+<div align="center">
+  <p align="center">
+    <img 
+      alt="imagen" 
+      src="https://netbynet.com.br/wp-content/uploads/2022/08/azure.jpg" 
+      width="250px" 
+    />
+
 # AzureDio
 Repositorio DIO Microsoft Azure Cloud Native!
 
